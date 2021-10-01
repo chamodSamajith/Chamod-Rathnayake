@@ -84,8 +84,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="mailto:chamodsr@gmail.com"><img src="https://img.shields.io/badge/-kavindu.ktm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/chamod-rathnayake/"><img src="https://img.shields.io/badge/-Kavindu%20Tharaka-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/15524610/chamod-rathnayake"><img src="https://img.shields.io/badge/-Kavindu%20Tharaka-F48024?style=flat&logo=stackoverflow&logoColor=white"/></a>
-<a href="https://web.facebook.com/chamod.rathnayake/"><img src="https://img.shields.io/badge/-Kavindu%20Tharaka-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:chamodsr@gmail.com"><img src="https://img.shields.io/badge/-chamodsr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/chamod-rathnayake/"><img src="https://img.shields.io/badge/-Chamod%20Rathnayake-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/15524610/chamod-rathnayake"><img src="https://img.shields.io/badge/-Chamod%20Rathnayake-F48024?style=flat&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://web.facebook.com/chamod.rathnayake/"><img src="https://img.shields.io/badge/-Chamod%20Rathnayake-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>

@@ -2,7 +2,7 @@
 <img  alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width = 200/>    </div>
 
 <h1 align="center">Hello, I'm Chamod Rathnayake </h1>
-<h3 align="center">Software Engineering Undergraduate at Sri Lanka Institute Of Information Technology</h3>
+<h3 align="center">Postgraduate Student at Swinburne University of Technology</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Age-25-orange" />
@@ -12,7 +12,7 @@
  
 ### 👨🏻‍💻 &nbsp;About Me
 
-🙋‍♂️&nbsp;I'm a Final Year Software Engineering  Undergraduate at Sri Lanka Institute of Information Technology.\
+🙋‍♂️&nbsp;Graduated from Sri Lanka Institute of Information Technology with Second Class Honours Upper Division.\
 💡&nbsp;I am Hard Working, Team-centric, Highly driven individual with a clear set of goals.\
 💡&nbsp;I Love To Expierience New Technologies and To Learn Them By Doing Self Learning Projects.\
 👨‍🎓&nbsp;I'm Currently a Software Engineering Undergraduate at SLIIT.\
